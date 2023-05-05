@@ -4,6 +4,13 @@ using UnityEngine;
 
 public class Bullet : MonoBehaviour
 {
+    public float destroyTime;
+
+    private void Start()
+    {
+        StartCoroutine(BulletDestroy());
+    }
+
     private void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.GetComponent<EnemyMovement>())
@@ -11,5 +18,11 @@ public class Bullet : MonoBehaviour
             Destroy(collision.gameObject);
             Destroy(gameObject);
         }
+    }
+
+    private IEnumerator BulletDestroy()
+    {
+        yield return new WaitForSecondsRealtime(destroyTime);
+        Destroy(gameObject);
     }
 }

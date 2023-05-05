@@ -28,7 +28,7 @@ public class Player : MonoBehaviour
 
     private void Update()
     {
-        transform.position = new Vector2(Mathf.Clamp(transform.position.x, -11f, 11f), Mathf.Clamp(transform.position.y, -11f, 11f));
+        transform.position = new Vector2(Mathf.Clamp(transform.position.x, -11.5f, 11.5f), Mathf.Clamp(transform.position.y, -11.5f, 11.5f));
     }
 
     private void SetPlayerVelocity()
