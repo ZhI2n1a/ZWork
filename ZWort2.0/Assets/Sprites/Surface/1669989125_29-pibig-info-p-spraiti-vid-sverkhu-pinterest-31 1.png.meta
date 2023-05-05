@@ -1,0 +1,5297 @@
+fileFormatVersion: 2
+guid: 5471ad8a17acd7247bd90bf125151322
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 768
+        width: 179
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e737b3e1a3d694592f5ce58c2bb064
+      internalID: 1328988983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_1
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 865
+        width: 183
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0de97ffad7bb62c49acad631e58840d9
+      internalID: 422026238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 922
+        width: 102
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501a6cecc582d334b83ca1e3039eeb06
+      internalID: 128715386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_3
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 836
+        width: 153
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b515ee4c676099469384dccb1feb336
+      internalID: 5356572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_4
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 897
+        width: 73
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd580bc683b240649a6af5e6adf8d38b
+      internalID: 491977200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_5
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 963
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32275c460727be34ba7b9049bbe04c52
+      internalID: 360508891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_6
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 961
+        width: 25
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91991f3cbb129044aa69c0c23d7dbba
+      internalID: -2096692244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_7
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 769
+        width: 150
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18005068088541a42ac37dede2a3ef19
+      internalID: -181529311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_8
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 900
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6516db9c1e84cc543bd54aa6f4203fea
+      internalID: -2145229873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_9
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 898
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca4fd203c32ccd44b2b84d4a35c5a21
+      internalID: 2093514404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_10
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 897
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a170bde76093004f84b6d3d038c8770
+      internalID: -1105917172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 769
+        width: 122
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94ab34a686116747aa651cbbd4851ee
+      internalID: -2119624800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 836
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac7b28e861bfa2042a8c5a48a2fab174
+      internalID: 806834820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_13
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 865
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1d92100cbbfe64bab1b04b1d4b9f1c
+      internalID: -2088146496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_14
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 834
+        width: 24
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a78fc400ee684f048a79c6d16263bd70
+      internalID: -922968686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_15
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 836
+        width: 26
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc47ad6b0f02e6f44a143a4bd953c360
+      internalID: 605634981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_16
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 867
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f74285cd888db4381d6be1cfbfcdb3
+      internalID: 1816078387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_17
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 870
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f0c7aacacda5541b233b38ff7188a4
+      internalID: 114319635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_18
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 885
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ebe12f9d2497642a74087ca4afc8ee
+      internalID: -774049771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_19
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 866
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270c06787e87ea445988fbc9571c5792
+      internalID: 1484336857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_20
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 870
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560e16f3c87e5ef4ebc69a96071f9acf
+      internalID: 1403752955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_21
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 870
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8cca94f7e5b8e49b1b3652e13d6765
+      internalID: -207386497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 704
+        width: 178
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b0a0082b70bb24eb2747fdcd0a9d7b
+      internalID: -614133808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_23
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 838
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3a880399c6566499306694df99146f
+      internalID: -1143977716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_24
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 837
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df04b4e5989a2284b90deb6828b03172
+      internalID: 605294477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_25
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 835
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a6b4eb90f5755439a2cc14961d3368
+      internalID: -643539526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_26
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 612
+        width: 198
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e42b7fb8932964781373a31e0d87d5
+      internalID: -805226732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_27
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 813
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd9c082b088c9949a96c8e57f14c0ce
+      internalID: 1840842954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 810
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa0707ff888b0549adc01507efa8bf5
+      internalID: 1900247187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_29
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 817
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a37a87c78e88a4db0efbd9bf3a767b
+      internalID: -1387476312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_30
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 821
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386945adfaaf95743b1b5fb341ea181a
+      internalID: -1580070133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_31
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 803
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696c7c0b1d35d9842be490395f2fa90a
+      internalID: 1264332296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_32
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 809
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b90de8286b6c048af938e030cd41c5
+      internalID: -869693911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_33
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 807
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098ecce15bac7f14a8471bccbd729d51
+      internalID: 453994228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_34
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 780
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4da0bd32fa64144db25413c35e89034
+      internalID: -683278532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_35
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 814
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e426c1650ba72244fbd880eac3c60769
+      internalID: 1805925569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_36
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 809
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1434f1d7af9fbc0429d708bff15d8c44
+      internalID: 472047514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_37
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 810
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f3e3aa031f3b146ae14fe9345eaa46
+      internalID: -1826509087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_38
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 810
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42742f69d6022ec41949222c43d58c33
+      internalID: 2112201424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_39
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 814
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510937f07eabe2347b9fad7d4d7e38a3
+      internalID: 867375585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_40
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 806
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7e0fc277dde1ed46a8932f0c9b6902e
+      internalID: -352745799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_41
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 804
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ee0c3da0c2f2743b2ef938afcb704e
+      internalID: 528365109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_42
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 795
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07be431111584234a9d93974b994b1da
+      internalID: -285059632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_43
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 795
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182c901314b33374fbabd3a78d25deb5
+      internalID: -748237985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_44
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 768
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d348003c5f9045b4b9334f00954e1a3b
+      internalID: 903410530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_45
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 770
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc77a5974e45d474f887c1c4e3f34ca9
+      internalID: 659551829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_46
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 768
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad0f5efc0c216a4fa9f0bdc3856bd18
+      internalID: 679435814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_47
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 672
+        width: 114
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dd18600a8f7b345ba66fd36280e089
+      internalID: 934451455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_48
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 711
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c54adb03bfc78f2409616e4a8f8ffcc8
+      internalID: 932866119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_49
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 709
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f0be1cdba962546a188da66750283f
+      internalID: 538218985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_50
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 704
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756f5b58d3731c84babff959c8c20ed9
+      internalID: -1041049859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_51
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 739
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26683a60f50d4b447ac0e2eeccca40e7
+      internalID: -2145561534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_52
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 741
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a012c38d7fb7c843ab425b44a079092
+      internalID: -36819277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_53
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 706
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff8ad8c24ca9a8468b7fbafb0a63329
+      internalID: 2041509646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_54
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 730
+        width: 26
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e217b4bb1cc7d0945a536f2e7c82dcd9
+      internalID: -650145807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_55
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 730
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafd2118518d921458909f9933601d29
+      internalID: -1794080059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_56
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 709
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b524c35c08fa8e64baf8449aa83fe179
+      internalID: 678838354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_57
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 667
+        width: 27
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 898409068d7a23345865fc238c35f84e
+      internalID: 1533043049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_58
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 724
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18d0442dbe06aa4cabb3affd82dabe7
+      internalID: 984908528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_59
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 708
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ee0647a84b65d84b959d84407539c56
+      internalID: -644418641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_60
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 708
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d83c05226d33764d9f0991e74cdd679
+      internalID: -53525207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_61
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 710
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3210a6680468d4a90177f1de982aaf
+      internalID: 1321309307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_62
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 672
+        width: 58
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dba4f5b0a675164a926691c9f5cc34e
+      internalID: -917225596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_63
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 541
+        width: 150
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d15f31f104a0647b77db04542b32bf
+      internalID: 1309731272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_64
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 553
+        width: 125
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bdabc3466ed3654493eab0c68bacc56
+      internalID: 1462594682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_65
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 648
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246bdb9b79affcb4789c1b93be0a5e0c
+      internalID: -1733669763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_66
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 678
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e30eb534913d2c4297c5c0c6b405ede
+      internalID: 1410846231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_67
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 642
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84dd9a8e98c1dc4ba96f632f66a13d1
+      internalID: -1132737777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_68
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 646
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b0dcfa8572024aa7ce3ddfc7f1077
+      internalID: 167117062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_69
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 643
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac0023b68c1a8f49b8999d9cbae1683
+      internalID: -1257705566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_70
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 652
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ec89ea1cfedc0b4983e2c508cdf0d2b
+      internalID: 1363950582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_71
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 643
+        width: 24
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0089e38bcc169924bae41958ede970d6
+      internalID: -832512811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_72
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 512
+        width: 178
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57157687b6a28c74a8a30a87349d7e25
+      internalID: 2043566523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_73
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 645
+        width: 31
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07bf68a276632db49ba0e0133bca998b
+      internalID: -1014842855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_74
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 609
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abebef360615af8458be55b6d78347dc
+      internalID: -430387874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_75
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 608
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b20bfc8edb08954fb5b9b392252d8a2
+      internalID: 1185800674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_76
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 608
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 257c65c7a0718d8459f6b0081a9fd129
+      internalID: 1032288912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_77
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 609
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b975f238679174c8be3d41070c9128
+      internalID: 1344012973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_78
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 608
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c923cc11fd142d1479cbf092fe7fcba8
+      internalID: -1461786513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_79
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 611
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eab3d8cae987324c89a694b45b791f3
+      internalID: -794627191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_80
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 616
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0feadceb6e47eee4988b36fbb1eaac60
+      internalID: -311519760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_81
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 627
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87479df66ae8ad4b8a8575fdeda3d20
+      internalID: -1660105038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_82
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 600
+        width: 19
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa85671a2705934fb762304bb6f382f
+      internalID: -1523362806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_83
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 624
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a010b9074a33b4db4b8b1d2942161d
+      internalID: 1043423727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_84
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 626
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de576ed1e86da5e419482870257ecbd3
+      internalID: -318133872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_85
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 622
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 040ecfa7378a4c244a5dc9164b0b5c5b
+      internalID: 665793571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_86
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 613
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0587c34b7358114db9afeb99d4dbe59
+      internalID: -893208163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_87
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 612
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2ce330a3d409d4fabb4a68c6c7e574
+      internalID: 1504013482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_88
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 613
+        width: 17
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2ffe4e7e4b12ce4ba12f6a1f893a311
+      internalID: -799483391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_89
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 614
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594f59ad95baacc4ba56732c74f8cb20
+      internalID: 754002400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_90
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 581
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d609d0a3a15d4cb4eb29eaa37b80b431
+      internalID: -1011282430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_91
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 578
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055f41e6478e6c4d87e8cebeb9fa2bc
+      internalID: 602301599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_92
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 576
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34e26f88155057140bb8ba83a48b974d
+      internalID: -1826768516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_93
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 576
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9f411c46fa05f343a07122430de71b1
+      internalID: -1582402333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_94
+      rect:
+        serializedVersion: 2
+        x: 676
+        y: 544
+        width: 38
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2342cb80dcbd73648892d1c523a837c5
+      internalID: 1139757765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_95
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 514
+        width: 82
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 607678cc1b6ebe744b0fe5ab65ae316e
+      internalID: -1424945203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_96
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 599
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecda507d59469f409a4e2c5ce251374
+      internalID: 1173493876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_97
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 577
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f8c08d5d1463b4780409826ddf1dbb
+      internalID: 1653102346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_98
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 576
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d164b46f924989d44876ce28e19f9d92
+      internalID: 600533786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_99
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 588
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65316335fdc36645b189f9a065c0c28
+      internalID: -1327320433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_100
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 586
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f463b54f03be7fc43b8ce792dee2e6f8
+      internalID: 1107871033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_101
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 588
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d757c6230976844a941342e5062d67f
+      internalID: -1053017790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_102
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 581
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d50a425128fb794a978967235ef01d0
+      internalID: -2085020723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_103
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 579
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab468195180a6aa40986d4a3de5c5055
+      internalID: -314886154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 257
+        width: 224
+        height: 316
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34b18119954e3bc49b72f9cb0dfe491a
+      internalID: -1968659261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_105
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 514
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d245101a1377cc549879ee161b5738d8
+      internalID: 1365418732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_106
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 559
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb040883a0cf52b41b4313d37a362498
+      internalID: 2092253524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_107
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 566
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02cc61648f151f46b9dbacfe172c8dc
+      internalID: 513827206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_108
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 550
+        width: 23
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff70c9b6a1f063143a1407994f5654e6
+      internalID: -378793718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_109
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 565
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea55582aa5b882343b19e619a0bbdbed
+      internalID: 828257641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_110
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 548
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cb2696547489a4a8f050298ec60e2d
+      internalID: -777930224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_111
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 555
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4bb5f543b71934ea979504c6162aaf
+      internalID: 2088859728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_112
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 560
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b5e8b8f6f25139499b49146bd542230
+      internalID: -1484122202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_113
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 555
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2c07b7ae0e3a64c9ce2deb51698bac
+      internalID: -1868024507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_114
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 548
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51427d4b2e878474eaccff6f0e4de491
+      internalID: 624314565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_115
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 512
+        width: 93
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49c27d9f5d3b7c042b9dd2c7d9ef1ce8
+      internalID: -1738436482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_116
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 512
+        width: 57
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569458128ca0dc74eaf8c8c4d4479d47
+      internalID: -1227472654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_117
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 520
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf41d6173d43eb43aea50bbfab203e2
+      internalID: -1303349570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_118
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 533
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bd32d3a63526a24880db86d3277880d
+      internalID: -1861778882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_119
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 529
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4de863d82c99444a8e755c5d0ea613
+      internalID: 490943443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_120
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 513
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe941dcc46bfa63438c2a007012f0b1a
+      internalID: -769756376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_121
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 513
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b0cfabfb5b8a442b04524e1f8108a9
+      internalID: -1301799905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_122
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 514
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f329b39b359ff7147a11057dde681a2d
+      internalID: 562962038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_123
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 515
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbcd50b9459fd84aa2086d20f2bb6b8
+      internalID: -186321632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_124
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 422
+        width: 103
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33256cf8ba2239c4395e61b6386e4600
+      internalID: 1182387600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_125
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 385
+        width: 215
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9d22f5b41d6f4c439c45e749f07398b
+      internalID: -2140898058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_126
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 500
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1561a556f13302046abcba6ffdee6eaa
+      internalID: 323994067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_127
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 388
+        width: 84
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdfe8150d39778947bc723dbf2080617
+      internalID: -1228542078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_128
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 256
+        width: 320
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8725de50d04b9441a60950f0b35aa1a
+      internalID: 1302087145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_129
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 482
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1fbf1d082f8cb4bb9647931f6bb0ee
+      internalID: 2144299841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_130
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 481
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cab626b900bdd84fb348c3a7578184d
+      internalID: 1353430534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_131
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 469
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 528c3cd5b209e634291a2b1269840129
+      internalID: 1717566086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_132
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 455
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74d570fa3cbbdc94fbcb9a031f993a57
+      internalID: 1585653226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_133
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 354
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d02d3de1fb2fa448b7128edc6e3395e
+      internalID: -1547097132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_134
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 354
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73586c885561dbf4490a52abd6c529d7
+      internalID: -224293497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_135
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 354
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5d4f5a6a7473f94295a8d085e61d837
+      internalID: 1749545847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_136
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 387
+        width: 87
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be239b19a4777d42ac6b6c2981b628f
+      internalID: 2091879282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_137
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 385
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6db823ed3e61d4e85d5408f4ebbc28
+      internalID: -1547455729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_138
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 387
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc4bd91726c6194a919d572ef5e9965
+      internalID: -1986201733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_139
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 385
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706ac5f7b51fb6d469af44df3f6d2976
+      internalID: -1263224339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_140
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 359
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d457b105c4d5ceb4cb47f77ad7e50712
+      internalID: -284622140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_141
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 325
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fe0bfd3474746c448f4e5f333507a9a
+      internalID: 676811011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_142
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 373
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374e35a98a3f01d45b6bc86a16f3fe36
+      internalID: -166655377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_143
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 365
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33db1158da68ff241b9c3467b8a67a19
+      internalID: 1364446188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_144
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 359
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc834d0337fb6c24083d2e8a56d2d1af
+      internalID: -1968611563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_145
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 369
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15b3406c8b082fd4388b7db224fa974e
+      internalID: -1859364808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_146
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 312
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93101d35dfdb7f4aa733f752d648cf9
+      internalID: 94080858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_147
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 256
+        width: 87
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be77d04ff662c44ae6058088ad55cf
+      internalID: -809880154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_148
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 355
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce3201285b6b31148877db96e5071ffa
+      internalID: -1912045241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_149
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 356
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19309eb7400062e42a76d89fcfb2ac8b
+      internalID: -1141263481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_150
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 259
+        width: 122
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9be6b63eb84d8428cdeea4c1313a46
+      internalID: -888208069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_151
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 324
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a765c5f35568f4baa5eba6c8eda66f
+      internalID: 1957291439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_152
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 293
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa94f6fffee44747a94800d07a5cf14
+      internalID: 609434247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_153
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 300
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e2fa367c00cd143b82d05c91eb9d0e
+      internalID: 1445483065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_154
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 288
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e517bc7ef5119094b9b634ebc3232b85
+      internalID: -188041862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_155
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 256
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb05057276c22d46a68de816f54b1e9
+      internalID: 358789371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_156
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a426c0c86597b146984d151e158f44c
+      internalID: 1530107317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_157
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 96
+        width: 192
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c2fc80495bce4ebdd7602a95eb4b8
+      internalID: -801195847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_158
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 192
+        width: 53
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb17d401e639b74ebe4f7cfe4f2f8f2
+      internalID: -1612950394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_159
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 256
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6153ee4cb1eed4fb5d363cce94d898
+      internalID: 1038614589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_160
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 282
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5582679e025f7f94a9fbad8b8c20ebaa
+      internalID: -1888595277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_161
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 231
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3f92cc470caf74dafc0e4bbcb32197
+      internalID: 171575010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_162
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 216
+        width: 100
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a98794d6314ca344bb6f4dd12549c6b
+      internalID: 284927256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_163
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 225
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b7d104f52cc0364d913f7bd52b6d5fd
+      internalID: -1175032828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_164
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 227
+        width: 19
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a818d7655ed43e444812622542ab6f15
+      internalID: 1581751063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_165
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 224
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc626deccbffc4a46a4f44fcbeec6f37
+      internalID: 1707344982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_166
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 197
+        width: 60
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6023080528c17144ba398427762cf924
+      internalID: -694208148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_167
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 230
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be57ba0ca1e8b14d8eb6fd10e2b3e64
+      internalID: 630755844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_168
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 231
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8891d9b4d5b64740abce7aa59e79ffe
+      internalID: 565643162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_169
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 228
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f9d921b4e4abc4bb56da0ff4fc6562
+      internalID: -379570440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_170
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 98
+        width: 99
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6626ce449e3c09a40acb69676881151a
+      internalID: -1159207175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_171
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 232
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f570c6bf6165afd46bfe181d32031296
+      internalID: -626399256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_172
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 206
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a99160947a0b40948817c9d579bb511c
+      internalID: -761728846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_173
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 204
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f1ad6ad4df71a4e8a16e6287ca5962
+      internalID: -1060291375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_174
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 209
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f89db485d5bef47ae6dfb0669ca4f9
+      internalID: -1252509898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_175
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 192
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cbe6b39d2896f459cecdc73d4335a0
+      internalID: -678939224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_176
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 194
+        width: 27
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab91c250b70a13479d841ddc2f539a9
+      internalID: 661118784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_177
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 226
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a907fa93763b2e646bacbd2838f584f8
+      internalID: -1843861928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_178
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 226
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3889f85715eb22b48a28fb5b8c8c3abb
+      internalID: 883598998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_179
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 195
+        width: 12
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761790b6f0d21824f96e4518308257d8
+      internalID: 1241547772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_180
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 195
+        width: 28
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d191c3b876d4f4541969afe09e4e93b3
+      internalID: -1262063166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_181
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 214
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81207f8814d1ec44fae07e2e5f755468
+      internalID: 15571319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_182
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 215
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd46a64f6929f844084e22bbf5acf07d
+      internalID: 1630761042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_183
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 196
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e2f164eff97b214b896e022de2eb08d
+      internalID: 1723518451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_184
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 196
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1037bcfabf4364143b0a27b76944be9f
+      internalID: 1513399807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_185
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 197
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e46c6c8673cc0b4ea9bfb2b170abde1
+      internalID: -2052439440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_186
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 194
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25af3901b9c1794a92fe409d7ca2331
+      internalID: -2143849075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_187
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 204
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1768d6338943a439f1ec1c014c539e
+      internalID: 25959168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_188
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 207
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee1a9fcf130009439475611d7e63372
+      internalID: -501374496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_189
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 205
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b0d8d47f7f8ec49ba5c17b0bf85efe
+      internalID: 1934655181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_190
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 197
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b39987fb548ce4fba2a102001052e7
+      internalID: 2007788136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_191
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 195
+        width: 30
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5eedacceb20f774e843bb9118cca413
+      internalID: 921201862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_192
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 196
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834212a04c2ce604595a3c577fdc267a
+      internalID: -1336594990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_193
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 182
+        width: 22
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6360fe5ff8b02024d8405af7a2094a26
+      internalID: 1294373530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_194
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 160
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7233e4d279ac9ac498663e9b4e2dcd0e
+      internalID: 1759685525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_195
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 184
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eefcbe430c24054f8af0b934840c6e5
+      internalID: -1058258239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_196
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 160
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178d6a1bbe16c14aaf6b1b0c1eddca3
+      internalID: 250095959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_197
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 157
+        width: 52
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed6770e105175448a05815d47098164
+      internalID: -1201871224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_198
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 105
+        width: 68
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c774b19186a2b764da9bfa30367b6dfb
+      internalID: 2024969158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_199
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 172
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e712dcb002b2e5f478e11da7a3fe9b7d
+      internalID: -743804465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_200
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 175
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6fec121692f0b048be26d1f2930ce38
+      internalID: 642454986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_201
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 155
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6609698c576cd3340ac35c53c6091a4c
+      internalID: -1079530145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_202
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 155
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6803816420f584e91abdc336f098a2
+      internalID: -140359656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_203
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 146
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c51ae810e392d4bb2d22ad33ea8399
+      internalID: -409622902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_204
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f030d94191d444ba47a4337d604139
+      internalID: 453474715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_205
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 165
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b29ddb7160b034a94435e222192569
+      internalID: 285816676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_206
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 131
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 473bded3f23f90c42ba61643911dc558
+      internalID: 634774464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_207
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 128
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8df98245ade779e4f98e750cce9d8724
+      internalID: -1956199027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_208
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 97
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15870957b4eed9c43b66993554376493
+      internalID: -1741400500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_209
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 136
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1ba13d434b46b4e9721ba5c8160a7c
+      internalID: -1182082894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_210
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 134
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b568700cfb56764f85e53afe0385658
+      internalID: 2127687859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_211
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 0
+        width: 223
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d6a99cf2f510142a87f733cb6863cb
+      internalID: 1106947202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_212
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 98
+        width: 17
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c97a325138d864db3c928003044eb2
+      internalID: 470240070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_213
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 33
+        width: 31
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446f26a4eae739747a84f08624aaa9e8
+      internalID: -996589069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_214
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 101
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6a95c0d41a0d454da9d2addf7827c39
+      internalID: -1219577762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_215
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 65
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d200aa0df17ef245ab97a3ac9b2564b
+      internalID: -287240871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_216
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 101
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79be85c95dfedaf4f82fb13d106f0c9a
+      internalID: 1703552468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_217
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 97
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7483b10c54c9f4194f372705d0bcd4
+      internalID: 459899215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_218
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 97
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 474b6a647c0e94e46952ab91c2529686
+      internalID: 426229041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_219
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1
+        width: 94
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc7b138b97d9eff49aba33420f818617
+      internalID: 559856085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_220
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 15
+        width: 79
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab4ff6c403ea3040aecd6bb90bca0fd
+      internalID: 691187006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_221
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 15
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee6b5c278cc68644822bc45abe23dae
+      internalID: 1344163013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_222
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 64
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33dd52e09b4e63541aa71371c6dd93f0
+      internalID: 604951271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_223
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 65
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2292b14d1118ee346b4f586110e48217
+      internalID: 434413636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_224
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 65
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87113029e943184e9720f20fc40bc78
+      internalID: -354482062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_225
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 14
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ddab20fc4f8d5748bf5b4a5fd001b45
+      internalID: -123758858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_226
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 66
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683aa4e0548ab3641af5e2d339452b23
+      internalID: 1902106053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_227
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 64
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dc1fe9766b3b3e4f890feee4e4199ca
+      internalID: 1057014873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_228
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 2
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff958042d3ce6c945bffbef9364c6952
+      internalID: -449109372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_229
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 0
+        width: 52
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a6b63f7d93fa540a5fff095ec85364
+      internalID: -443773413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_230
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 31
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b4f1c5ae4d73b4f99d1909c4e19ded
+      internalID: 568477791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_231
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 0
+        width: 53
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c72e174a3cbbad4da004dda32cbf250
+      internalID: 511284170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_232
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 2
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d458dca5df7a428506bebb5a85dfc
+      internalID: -833329772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_226: 1902106053
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_149: -1141263481
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_12: 806834820
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_181: 15571319
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_219: 559856085
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_92: -1826768516
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_232: -833329772
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_52: -36819277
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_0: 1328988983
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_96: 1173493876
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_201: -1079530145
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_8: -2145229873
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_49: 538218985
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_173: -1060291375
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_126: 323994067
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_69: -1257705566
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_44: 903410530
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_10: -1105917172
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_67: -1132737777
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_80: -311519760
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_93: -1582402333
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_99: -1327320433
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_214: -1219577762
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_161: 171575010
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_85: 665793571
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_155: 358789371
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_203: -409622902
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_5: 360508891
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_122: 562962038
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_136: 2091879282
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_217: 459899215
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_215: -287240871
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_60: -53525207
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_68: 167117062
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_154: -188041862
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_143: 1364446188
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_28: 1900247187
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_48: 932866119
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_128: 1302087145
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_141: 676811011
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_186: -2143849075
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_147: -809880154
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_218: 426229041
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_29: -1387476312
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_17: 114319635
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_198: 2024969158
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_59: -644418641
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_100: 1107871033
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_76: 1032288912
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_182: 1630761042
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_40: -352745799
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_34: -683278532
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_32: -869693911
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_157: -801195847
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_175: -678939224
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_183: 1723518451
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_102: -2085020723
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_87: 1504013482
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_20: 1403752955
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_107: 513827206
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_137: -1547455729
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_4: 491977200
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_54: -650145807
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_118: -1861778882
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_222: 604951271
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_163: -1175032828
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_230: 568477791
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_37: -1826509087
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_220: 691187006
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_193: 1294373530
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_22: -614133808
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_73: -1014842855
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_63: 1309731272
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_152: 609434247
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_224: -354482062
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_211: 1106947202
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_221: 1344163013
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_25: -643539526
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_108: -378793718
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_200: 642454986
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_41: 528365109
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_9: 2093514404
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_64: 1462594682
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_209: -1182082894
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_227: 1057014873
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_120: -769756376
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_33: 453994228
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_132: 1585653226
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_6: -2096692244
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_171: -626399256
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_58: 984908528
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_24: 605294477
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_195: -1058258239
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_162: 284927256
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_43: -748237985
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_51: -2145561534
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_119: 490943443
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_70: 1363950582
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_115: -1738436482
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_207: -1956199027
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_151: 1957291439
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_225: -123758858
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_82: -1523362806
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_194: 1759685525
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_191: 921201862
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_47: 934451455
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_16: 1816078387
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_150: -888208069
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_127: -1228542078
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_31: 1264332296
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_177: -1843861928
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_164: 1581751063
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_88: -799483391
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_112: -1484122202
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_18: -774049771
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_213: -996589069
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_97: 1653102346
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_57: 1533043049
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_53: 2041509646
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_84: -318133872
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_145: -1859364808
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_98: 600533786
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_176: 661118784
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_174: -1252509898
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_130: 1353430534
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_109: 828257641
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_105: 1365418732
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_91: 602301599
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_62: -917225596
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_19: 1484336857
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_142: -166655377
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_138: -1986201733
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_95: -1424945203
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_180: -1262063166
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_89: 754002400
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_74: -430387874
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_94: 1139757765
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_7: -181529311
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_78: -1461786513
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_144: -1968611563
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_117: -1303349570
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_189: 1934655181
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_192: -1336594990
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_133: -1547097132
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_170: -1159207175
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_77: 1344012973
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_55: -1794080059
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_146: 94080858
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_75: 1185800674
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_90: -1011282430
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_23: -1143977716
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_35: 1805925569
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_30: -1580070133
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_114: 624314565
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_39: 867375585
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_197: -1201871224
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_27: 1840842954
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_134: -224293497
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_160: -1888595277
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_15: 605634981
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_42: -285059632
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_168: 565643162
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_106: 2092253524
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_50: -1041049859
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_135: 1749545847
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_158: -1612950394
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_104: -1968659261
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_36: 472047514
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_190: 2007788136
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_45: 659551829
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_139: -1263224339
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_56: 678838354
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_14: -922968686
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_72: 2043566523
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_159: 1038614589
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_13: -2088146496
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_131: 1717566086
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_79: -794627191
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_83: 1043423727
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_166: -694208148
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_153: 1445483065
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_205: 285816676
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_204: 453474715
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_165: 1707344982
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_212: 470240070
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_196: 250095959
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_2: 128715386
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_101: -1053017790
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_124: 1182387600
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_167: 630755844
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_61: 1321309307
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_125: -2140898058
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_188: -501374496
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_169: -379570440
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_210: 2127687859
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_208: -1741400500
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_66: 1410846231
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_178: 883598998
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_156: 1530107317
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_3: 5356572
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_21: -207386497
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_86: -893208163
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_140: -284622140
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_121: -1301799905
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_1: 422026238
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_111: 2088859728
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_81: -1660105038
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_65: -1733669763
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_116: -1227472654
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_187: 25959168
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_172: -761728846
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_148: -1912045241
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_184: 1513399807
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_185: -2052439440
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_229: -443773413
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_216: 1703552468
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_228: -449109372
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_202: -140359656
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_129: 2144299841
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_71: -832512811
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_223: 434413636
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_46: 679435814
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_110: -777930224
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_206: 634774464
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_38: 2112201424
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_26: -805226732
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_103: -314886154
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_123: -186321632
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_113: -1868024507
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_179: 1241547772
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_231: 511284170
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_11: -2119624800
+      1669989125_29-pibig-info-p-spraiti-vid-sverkhu-pinterest-31 1_199: -743804465
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

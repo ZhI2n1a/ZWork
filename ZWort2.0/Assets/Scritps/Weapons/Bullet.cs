@@ -15,8 +15,8 @@ public class Bullet : MonoBehaviour
     {
         if (collision.GetComponent<EnemyMovement>())
         {
-            Destroy(collision.gameObject);
-            Destroy(gameObject);
+            //Destroy(collision.gameObject);
+            //Destroy(gameObject);
         }
     }
 

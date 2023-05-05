@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 1295838606996544972}
   - component: {fileID: -9203671231239075050}
   - component: {fileID: 3423175677147697243}
+  - component: {fileID: -5257939727939482263}
   m_Layer: 0
   m_Name: Zombie
   m_TagString: Enemy
@@ -31,7 +32,7 @@ Transform:
   m_GameObject: {fileID: 1014807826632063339}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 2.18, y: -1.84, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 1.5, y: 1.5, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -78,8 +79,8 @@ SpriteRenderer:
   m_SortingLayerID: 100011727
   m_SortingLayer: 4
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1289409022, guid: 647e93581590b5a41b8bf7d8c6dd8bc7, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Sprite: {fileID: 773381375, guid: b3e41166a2325f245b50f009dc844c30, type: 3}
+  m_Color: {r: 1, g: 0.28773582, b: 0.28773582, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -166,3 +167,16 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _damageAmout: 50
+--- !u!114 &-5257939727939482263
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1014807826632063339}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 219893fe0a54b2d46a241e01ec5d61ca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  health: 100
