@@ -7,13 +7,13 @@ public class Player : MonoBehaviour
 {
     [SerializeField]
     private float _speed;
-    //[SerializeField]
-    //private float _rotateSpeed;
 
     private Rigidbody2D _rigidbody;
     private Vector2 _movementInput;
     private Vector2 _smoothedMovementInput;
     private Vector2 _movementInpunSmoothVelocity;
+
+    public AudioSource moveSound;
 
     private void Awake()
     {
@@ -24,6 +24,16 @@ public class Player : MonoBehaviour
     {
         SetPlayerVelocity();
         RotateInDirectionOfInput();
+
+        if (Mathf.Abs(Input.GetAxis("Horizontal")) > 0 || Mathf.Abs(Input.GetAxis("Vertical")) > 0)
+        {
+            if (moveSound.isPlaying) return;
+            moveSound.Play();
+        }
+        else
+        {
+            moveSound.Stop();
+        }
     }
 
     private void Update()
@@ -43,14 +53,6 @@ public class Player : MonoBehaviour
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
         Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * 10);
-
-        //if (_movementInput != Vector2.zero)
-        //{
-        //    Quaternion targetRotation = Quaternion.LookRotation(transform.forward, _smoothedMovementInput);
-        //    Quaternion rotation = Quaternion.RotateTowards(transform.rotation, targetRotation, _rotateSpeed * Time.deltaTime);
-
-        //    _rigidbody.MoveRotation(rotation);
-        //}
     }
 
     private void OnMove(InputValue inputValue)

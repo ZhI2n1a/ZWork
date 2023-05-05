@@ -136,7 +136,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7a73014e6accf8047a96462141f288a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _platerAwarenessDistancel: 50
+  _platerAwarenessDistancel: 100
 --- !u!58 &-9203671231239075050
 CircleCollider2D:
   m_ObjectHideFlags: 0

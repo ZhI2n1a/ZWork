@@ -3,32 +3,28 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-public class Shooting : MonoBehaviour
+public class Pistol : MonoBehaviour
 {
-    //public Button pistol;
-    //public bool pistolActivate;
-
-    //public Button smg;
-    //public bool smgActivate;
-
-    //public Button shotguns;
-    //public bool shootgnsActivate;
-
-    //public Button rifiles;
-    //public bool rifilesActivate;
-
     public Transform firePoint;
     public GameObject bulletPrefab;
 
+
     public float bulletForce = 20f;
+    public float firRate = 1;
+    public float damage = 20;
+
+    private float nextTimeOffFire = 0f; 
+
     void Update()
     {
         if (Input.GetButtonDown("Fire1"))
         {
-            Shoot();
-
+            if (Time.time >= nextTimeOffFire)
+            {
+                Shoot();
+                nextTimeOffFire = Time.time + 1 / firRate;
+            }
         }
-        //Destroy(Instantiate(bulletPrefab, transform.position, Quaternion.identity), 5f);
     }
 
     void Shoot()
@@ -39,3 +35,4 @@ public class Shooting : MonoBehaviour
     }
 
 }
+

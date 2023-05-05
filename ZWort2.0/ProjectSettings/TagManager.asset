@@ -54,6 +54,9 @@ TagManager:
   - name: Enemy
     uniqueID: 100011727
     locked: 0
+  - name: Tree
+    uniqueID: 1170595503
+    locked: 0
   - name: Inteface
     uniqueID: 853152795
     locked: 0
