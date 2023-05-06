@@ -21,6 +21,7 @@ public class enemyCount : MonoBehaviour
         if (enemy == 50)
         {
             SceneSelectManager.SelectScene(0);
+            enemy = 0;
         }
 
     }

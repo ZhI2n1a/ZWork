@@ -13662,6 +13662,7 @@ MonoBehaviour:
   _currentHealth: 100
   _maximumHealth: 100
   DeathWindow: {fileID: 1456478271}
+  playerBlood: {fileID: 1481217883}
   OnDied:
     m_PersistentCalls:
       m_Calls:

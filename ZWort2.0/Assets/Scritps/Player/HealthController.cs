@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 
+
 public class HealthController : MonoBehaviour
 {
     [SerializeField]
@@ -12,7 +13,15 @@ public class HealthController : MonoBehaviour
     private float _maximumHealth;
 
     public GameObject DeathWindow;
+    public SpriteRenderer playerBlood;
 
+    private void Update()
+    {
+        if (_currentHealth <= 50)
+        {
+            playerBlood.color = Color.red;
+        }
+    }
     public void DeathWindowOpen()
     {
         if (DeathWindow != null)
@@ -32,6 +41,14 @@ public class HealthController : MonoBehaviour
             return _currentHealth / _maximumHealth;
         }
     }
+
+    //private IEnumerator HealthUp(float rezitTime)
+    //{
+    //    playerBlood.color = Color.red;
+    //    yield return new WaitForSeconds(rezitTime);
+    //    _currentHealth = 100;
+    //    playerBlood.color = Color.white;
+    //}
 
     public bool IsInvincible { get; set; }
 
