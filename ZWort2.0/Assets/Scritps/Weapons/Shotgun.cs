@@ -4,9 +4,11 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-public class SubmachineGun : MonoBehaviour
+public class Shotgun : MonoBehaviour
 {
     public Transform firePoint;
+    public Transform firePoint1;
+    public Transform firePoint2;
     public GameObject bulletPrefab;
     public AudioSource fireSound;
     public Text ammoCount;
@@ -28,7 +30,7 @@ public class SubmachineGun : MonoBehaviour
         {
             if (fireOn)
             {
-                if (Input.GetButton("Fire1"))
+                if (Input.GetButtonDown("Fire1"))
                 {
                     if (Time.time >= nextTimeOffFire)
                     {
@@ -40,7 +42,7 @@ public class SubmachineGun : MonoBehaviour
                         if (ammo == 0)
                         {
                             fireOn = false;
-                            StartCoroutine(ReloadTimeCoroutine(8));
+                            StartCoroutine(ReloadTimeCoroutine(12));
                         }
                     }
                 }
@@ -53,6 +55,14 @@ public class SubmachineGun : MonoBehaviour
         GameObject bullet = Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
         Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
         rb.AddForce(firePoint.right * bulletForce, ForceMode2D.Impulse);
+
+        GameObject bullet1 = Instantiate(bulletPrefab, firePoint1.position, firePoint1.rotation);
+        Rigidbody2D rb1 = bullet1.GetComponent<Rigidbody2D>();
+        rb1.AddForce(firePoint1.right * bulletForce, ForceMode2D.Impulse);
+
+        GameObject bullet2 = Instantiate(bulletPrefab, firePoint2.position, firePoint2.rotation);
+        Rigidbody2D rb2 = bullet2.GetComponent<Rigidbody2D>();
+        rb2.AddForce(firePoint2.right * bulletForce, ForceMode2D.Impulse);
     }
 
     private IEnumerator ReloadTimeCoroutine(float timeReload)
@@ -60,7 +70,7 @@ public class SubmachineGun : MonoBehaviour
         reloadColor.color = Color.red;
         yield return new WaitForSeconds(timeReload);
         reloadColor.color = Color.white;
-        ammo = 30;
+        ammo = 8;
         ammoCount.text = ammo.ToString();
         fireOn = true;
     }

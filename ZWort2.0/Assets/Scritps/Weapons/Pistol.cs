@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class Pistol : MonoBehaviour
 {
@@ -22,21 +23,25 @@ public class Pistol : MonoBehaviour
     void Update()
     {
         ammoCount.text = ammo.ToString();
-        if (fireOn)
-        {
-            if (Input.GetButtonDown("Fire1"))
-            {
-                if (Time.time >= nextTimeOffFire)
-                {
-                    Shoot();
-                    nextTimeOffFire = Time.time + 1 / firRate;
-                    fireSound.Play();
-                    ammo -= 1;
 
-                    if (ammo == 0)
+        if (!EventSystem.current.IsPointerOverGameObject())
+        {
+            if (fireOn)
+            {
+                if (Input.GetButtonDown("Fire1"))
+                {
+                    if (Time.time >= nextTimeOffFire)
                     {
-                        fireOn = false;
-                        StartCoroutine(ReloadTimeCoroutine(4));
+                        Shoot();
+                        nextTimeOffFire = Time.time + 1 / firRate;
+                        fireSound.Play();
+                        ammo -= 1;
+
+                        if (ammo == 0)
+                        {
+                            fireOn = false;
+                            StartCoroutine(ReloadTimeCoroutine(4));
+                        }
                     }
                 }
             }
@@ -55,7 +60,7 @@ public class Pistol : MonoBehaviour
         reloadColor.color = Color.red;
         yield return new WaitForSeconds(timeReload);
         reloadColor.color = Color.white;
-        ammo = 7;
+        ammo = 8;
         ammoCount.text = ammo.ToString();
         fireOn = true;
     }

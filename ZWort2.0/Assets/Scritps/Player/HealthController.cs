@@ -11,6 +11,20 @@ public class HealthController : MonoBehaviour
     [SerializeField]
     private float _maximumHealth;
 
+    public GameObject DeathWindow;
+
+    public void DeathWindowOpen()
+    {
+        if (DeathWindow != null)
+        {
+            if (_currentHealth <= 0)
+            {
+                bool isActive = DeathWindow.activeSelf;
+                DeathWindow.SetActive(!isActive);
+            }
+        }
+    }
+
     public float RemainingHealthPercentage
     {
         get

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.EventSystems;
 
 public class AssaultRifles : MonoBehaviour
 {
@@ -22,21 +23,25 @@ public class AssaultRifles : MonoBehaviour
     void Update()
     {
         ammoCount.text = ammo.ToString();
-        if (fireOn)
-        {
-            if (Input.GetButton("Fire1"))
-            {
-                if (Time.time >= nextTimeOffFire)
-                {
-                    Shoot();
-                    nextTimeOffFire = Time.time + 1 / firRate;
-                    fireSound.Play();
-                    ammo -= 1;
 
-                    if (ammo == 0)
+        if (!EventSystem.current.IsPointerOverGameObject())
+        {
+            if (fireOn)
+            {
+                if (Input.GetButton("Fire1"))
+                {
+                    if (Time.time >= nextTimeOffFire)
                     {
-                        fireOn = false;
-                        StartCoroutine(ReloadTimeCoroutine(16));
+                        Shoot();
+                        nextTimeOffFire = Time.time + 1 / firRate;
+                        fireSound.Play();
+                        ammo -= 1;
+
+                        if (ammo == 0)
+                        {
+                            fireOn = false;
+                            StartCoroutine(ReloadTimeCoroutine(16));
+                        }
                     }
                 }
             }

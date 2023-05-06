@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-public class SubmachineGun : MonoBehaviour
+public class MachineGun : MonoBehaviour
 {
     public Transform firePoint;
     public GameObject bulletPrefab;
@@ -40,7 +40,7 @@ public class SubmachineGun : MonoBehaviour
                         if (ammo == 0)
                         {
                             fireOn = false;
-                            StartCoroutine(ReloadTimeCoroutine(8));
+                            StartCoroutine(ReloadTimeCoroutine(25));
                         }
                     }
                 }
@@ -54,13 +54,12 @@ public class SubmachineGun : MonoBehaviour
         Rigidbody2D rb = bullet.GetComponent<Rigidbody2D>();
         rb.AddForce(firePoint.right * bulletForce, ForceMode2D.Impulse);
     }
-
     private IEnumerator ReloadTimeCoroutine(float timeReload)
     {
         reloadColor.color = Color.red;
         yield return new WaitForSeconds(timeReload);
         reloadColor.color = Color.white;
-        ammo = 30;
+        ammo = 100;
         ammoCount.text = ammo.ToString();
         fireOn = true;
     }

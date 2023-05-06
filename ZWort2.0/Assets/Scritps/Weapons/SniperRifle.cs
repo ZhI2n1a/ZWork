@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 
-public class SubmachineGun : MonoBehaviour
+public class SniperRifle : MonoBehaviour
 {
     public Transform firePoint;
     public GameObject bulletPrefab;
@@ -28,7 +28,7 @@ public class SubmachineGun : MonoBehaviour
         {
             if (fireOn)
             {
-                if (Input.GetButton("Fire1"))
+                if (Input.GetButtonDown("Fire1"))
                 {
                     if (Time.time >= nextTimeOffFire)
                     {
@@ -40,7 +40,7 @@ public class SubmachineGun : MonoBehaviour
                         if (ammo == 0)
                         {
                             fireOn = false;
-                            StartCoroutine(ReloadTimeCoroutine(8));
+                            StartCoroutine(ReloadTimeCoroutine(20));
                         }
                     }
                 }
@@ -60,7 +60,7 @@ public class SubmachineGun : MonoBehaviour
         reloadColor.color = Color.red;
         yield return new WaitForSeconds(timeReload);
         reloadColor.color = Color.white;
-        ammo = 30;
+        ammo = 5;
         ammoCount.text = ammo.ToString();
         fireOn = true;
     }
