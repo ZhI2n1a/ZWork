@@ -22,7 +22,7 @@ public class SniperRifle : MonoBehaviour
 
     void Update()
     {
-        ammoCount.text = ammo.ToString();
+        ammoCount.text = ammo.ToString() + "/5";
 
         if (!EventSystem.current.IsPointerOverGameObject())
         {

@@ -22,7 +22,7 @@ public class MachineGun : MonoBehaviour
 
     void Update()
     {
-        ammoCount.text = ammo.ToString();
+        ammoCount.text = ammo.ToString() + "/60";
 
         if (!EventSystem.current.IsPointerOverGameObject())
         {

@@ -22,7 +22,7 @@ public class AssaultRifles : MonoBehaviour
 
     void Update()
     {
-        ammoCount.text = ammo.ToString();
+        ammoCount.text = ammo.ToString() + "/21";
 
         if (!EventSystem.current.IsPointerOverGameObject())
         {

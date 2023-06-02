@@ -24,7 +24,7 @@ public class Shotgun : MonoBehaviour
 
     void Update()
     {
-        ammoCount.text = ammo.ToString();
+        ammoCount.text = ammo.ToString() + "/8";
 
         if (!EventSystem.current.IsPointerOverGameObject())
         {

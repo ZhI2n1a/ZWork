@@ -22,7 +22,7 @@ public class SubmachineGun : MonoBehaviour
 
     void Update()
     {
-        ammoCount.text = ammo.ToString();
+        ammoCount.text = ammo.ToString() + "/40";
 
         if (!EventSystem.current.IsPointerOverGameObject())
         {
