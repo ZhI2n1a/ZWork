@@ -15,6 +15,12 @@ public class Player : MonoBehaviour
 
     public AudioSource moveSound;
 
+    public Joystick moveJoystick;
+    public Joystick shootJoystick;
+
+    [HideInInspector]
+    public bool canShot;
+
     private void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
@@ -44,6 +50,8 @@ public class Player : MonoBehaviour
     private void SetPlayerVelocity()
     {
         _smoothedMovementInput = Vector2.SmoothDamp(_smoothedMovementInput, _movementInput, ref _movementInpunSmoothVelocity, 0.1f);
+        if (moveJoystick.InputDir != Vector3.zero)
+            _smoothedMovementInput = moveJoystick.InputDir;
         _rigidbody.velocity = _smoothedMovementInput * _speed;
     }
 
@@ -51,6 +59,8 @@ public class Player : MonoBehaviour
     {
         Vector2 dir = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
+        if (shootJoystick.InputDir != Vector3.zero)
+            angle = Mathf.Atan2(shootJoystick.InputDir.y, shootJoystick.InputDir.x) * Mathf.Rad2Deg + 90;
         Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * 10);
     }

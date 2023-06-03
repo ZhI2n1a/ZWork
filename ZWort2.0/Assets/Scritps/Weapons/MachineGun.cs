@@ -28,7 +28,7 @@ public class MachineGun : MonoBehaviour
         {
             if (fireOn)
             {
-                if (Input.GetButton("Fire1"))
+                if (Input.GetButton("Fire1") && FindObjectOfType<Player>().canShot)
                 {
                     if (Time.time >= nextTimeOffFire)
                     {
