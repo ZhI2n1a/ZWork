@@ -18,9 +18,8 @@ public class enemyCount : MonoBehaviour
     {
         text.text = enemy.ToString();
 
-        if (enemy == 50)
+        if (enemy == 100)
         {
-            SceneSelectManager.SelectScene(0);
             enemy = 0;
         }
 
