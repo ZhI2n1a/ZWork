@@ -18,7 +18,7 @@ public class enemyCount : MonoBehaviour
     {
         text.text = enemy.ToString();
 
-        if (enemy == 100)
+        if (enemy == 500)
         {
             enemy = 0;
         }

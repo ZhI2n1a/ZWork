@@ -12,15 +12,27 @@ public class HealthController : MonoBehaviour
     [SerializeField]
     private float _maximumHealth;
 
+    [SerializeField]
+    private float _pointIncreasePersecond;
+
     public GameObject DeathWindow;
     public SpriteRenderer playerBlood;
 
     private void Update()
     {
-        if (_currentHealth <= 50)
-        {
+       _currentHealth  += _pointIncreasePersecond * Time.deltaTime;
+
+        if (_currentHealth <= 100)
             playerBlood.color = Color.red;
-        }
+        else if (_currentHealth >= 100)
+            playerBlood.color = Color.white;
+
+        if (_currentHealth > _maximumHealth)
+            _currentHealth = 100;
+
+        if (_currentHealth < 0)
+            _currentHealth = 0;
+
     }
     public void DeathWindowOpen()
     {
@@ -41,14 +53,6 @@ public class HealthController : MonoBehaviour
             return _currentHealth / _maximumHealth;
         }
     }
-
-    //private IEnumerator HealthUp(float rezitTime)
-    //{
-    //    playerBlood.color = Color.red;
-    //    yield return new WaitForSeconds(rezitTime);
-    //    _currentHealth = 100;
-    //    playerBlood.color = Color.white;
-    //}
 
     public bool IsInvincible { get; set; }
 

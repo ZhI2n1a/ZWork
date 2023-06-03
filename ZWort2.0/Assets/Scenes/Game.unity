@@ -14249,7 +14249,7 @@ SpriteRenderer:
   m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: 21300000, guid: e3a698469fa6d4b4e9b34632b3c0def6, type: 3}
-  m_Color: {r: 0.7075472, g: 0.7075472, b: 0.7075472, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -14359,8 +14359,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f3249db4bb182334491a28585b3ff3f6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _currentHealth: 10000
-  _maximumHealth: 10000
+  _currentHealth: 100
+  _maximumHealth: 100
+  _pointIncreasePersecond: 15
   DeathWindow: {fileID: 1456478271}
   playerBlood: {fileID: 1481217883}
   OnDied:
@@ -14525,7 +14526,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dea2919b7623438499ba6f140ed506dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _invincibilityDuration: 3
+  _invincibilityDuration: 1
 --- !u!114 &1481217891
 MonoBehaviour:
   m_ObjectHideFlags: 0
