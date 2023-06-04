@@ -21,9 +21,6 @@ public class Player : MonoBehaviour
     public Joystick moveJoystick;
     public Joystick shootJoystick;
 
-    [HideInInspector]
-    public bool canShot;
-
     private void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();

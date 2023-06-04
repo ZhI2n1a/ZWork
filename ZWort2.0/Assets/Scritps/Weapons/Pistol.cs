@@ -20,6 +20,9 @@ public class Pistol : MonoBehaviour
     private float nextTimeOffFire = 0f;
     private bool fireOn = true;
 
+    [HideInInspector]
+    public bool canShot;
+
 
 
     void Update()
@@ -30,7 +33,7 @@ public class Pistol : MonoBehaviour
         {
             if (fireOn)
             {
-                if (Input.GetButton("Fire1") && FindObjectOfType<Player>().canShot)
+                if (Input.GetButton("Fire1") && canShot)
                 {
                     if (Time.time >= nextTimeOffFire)
                     {

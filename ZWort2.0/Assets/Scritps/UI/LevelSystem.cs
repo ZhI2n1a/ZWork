@@ -18,6 +18,11 @@ public class LevelSystem : MonoBehaviour
     void Start()
     {
         xpBar.fillAmount = currentXp / requiredXp;
+        if (PlayerPrefs.HasKey("Level"))
+        {
+            level = PlayerPrefs.GetInt("Level");
+            textLevel.text = level.ToString();
+        }
     }
 
     void Update()
@@ -51,6 +56,8 @@ public class LevelSystem : MonoBehaviour
     public void LevelUp()
     {
         level++;
+        PlayerPrefs.SetInt("Level", level);
+        PlayerPrefs.Save();
         xpBar.fillAmount = 0f;
         currentXp = Mathf.RoundToInt(currentXp - requiredXp);
     }

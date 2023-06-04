@@ -33,7 +33,7 @@ public class Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, I
             touch.rectTransform.anchoredPosition = new Vector3(InputDir.x * (treshold.rectTransform.sizeDelta.x / 2.5f), InputDir.y * (treshold.rectTransform.sizeDelta.y / 2.5f));
 
             if (shoot)
-                FindObjectOfType<Player>().canShot = true;
+                FindObjectOfType<Pistol>().canShot = true;
         }
     }
 
@@ -47,7 +47,8 @@ public class Joystick : MonoBehaviour, IPointerDownHandler, IPointerUpHandler, I
         if (!shoot)
             InputDir = Vector3.zero;
         else
-            FindObjectOfType<Player>().canShot = false;
+            FindObjectOfType<Pistol>().canShot = false;
+
         touch.rectTransform.anchoredPosition = Vector3.zero;
     }
 

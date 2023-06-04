@@ -30,7 +30,7 @@ public class Shotgun : MonoBehaviour
         {
             if (fireOn)
             {
-                if (Input.GetButton("Fire1") && FindObjectOfType<Player>().canShot)
+                if (Input.GetButton("Fire1") && FindObjectOfType<Pistol>().canShot)
                 {
                     if (Time.time >= nextTimeOffFire)
                     {
