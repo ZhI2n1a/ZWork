@@ -30,32 +30,32 @@ public class WeaponProgress : MonoBehaviour
         UpdateXpUI();
         if (enemyCount.enemy > enemyC)
         {
-            if (enemyC < 13)
+            if (enemyC < 14)
             {
                 GainExperienceFlatRate(3);
                 enemyC = enemyCount.enemy;
-                if(enemyC == 6)
+                if(enemyC == 7)
                     ButtonActive(weapon);
-                if (enemyC == 12)
+                if (enemyC == 13)
                     ButtonActive(weapon1);
             }
-            else if (enemyC >= 12 && enemyC < 22)
+            else if (enemyC >= 13 && enemyC < 22)
             {
                 GainExperienceFlatRate(2);
                 enemyC = enemyCount.enemy;
                 if (enemyC == 21)
                     ButtonActive(weapon2);
             }
-            else if (enemyC >= 21 && enemyC < 56)
+            else if (enemyC >= 21 && enemyC < 52)
             {
                 GainExperienceFlatRate(1);
                 enemyC = enemyCount.enemy;
-                if(enemyC == 37)
+                if(enemyC == 36)
                     ButtonActive(weapon3);
-                if (enemyC == 55)
+                if (enemyC == 51)
                     ButtonActive(weapon4);
             }
-            else if (enemyC >= 55)
+            else if (enemyC >= 51)
             {
                 GainExperienceFlatRate(0.5f);
                 enemyC = enemyCount.enemy;

@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class enemyCount : MonoBehaviour
 {
@@ -17,11 +18,9 @@ public class enemyCount : MonoBehaviour
     void Update()
     {
         text.text = enemy.ToString();
-
-        if (enemy == 500)
+        if (enemy == 1000)
         {
             enemy = 0;
         }
-
     }
 }

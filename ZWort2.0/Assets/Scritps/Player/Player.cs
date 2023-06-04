@@ -13,6 +13,9 @@ public class Player : MonoBehaviour
     private Vector2 _smoothedMovementInput;
     private Vector2 _movementInpunSmoothVelocity;
 
+    private Animator moveAnim;
+    private Animator legsAnim;
+
     public AudioSource moveSound;
 
     public Joystick moveJoystick;
@@ -24,6 +27,8 @@ public class Player : MonoBehaviour
     private void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
+        moveAnim = transform.GetChild(0).GetComponent<Animator>();
+        legsAnim = transform.GetChild(1).GetComponent<Animator>();
     }
 
     private void FixedUpdate()
@@ -31,13 +36,18 @@ public class Player : MonoBehaviour
         SetPlayerVelocity();
         RotateInDirectionOfInput();
 
-        if (Mathf.Abs(Input.GetAxis("Horizontal")) > 0 || Mathf.Abs(Input.GetAxis("Vertical")) > 0)
+        if (Mathf.Abs(Input.GetAxis("Horizontal")) > 0 || Mathf.Abs(Input.GetAxis("Vertical")) > 0 || moveJoystick.InputDir != Vector3.zero)
         {
+            moveAnim.SetBool("Moving", true);
+            legsAnim.SetBool("MoveLegs", true);
+
             if (moveSound.isPlaying) return;
             moveSound.Play();
         }
         else
         {
+            moveAnim.SetBool("Moving", false);
+            legsAnim.SetBool("MoveLegs", false);
             moveSound.Stop();
         }
     }
@@ -53,6 +63,7 @@ public class Player : MonoBehaviour
         if (moveJoystick.InputDir != Vector3.zero)
             _smoothedMovementInput = moveJoystick.InputDir;
         _rigidbody.velocity = _smoothedMovementInput * _speed;
+
     }
 
     private void RotateInDirectionOfInput()
@@ -60,7 +71,7 @@ public class Player : MonoBehaviour
         Vector2 dir = Camera.main.ScreenToWorldPoint(Input.mousePosition) - transform.position;
         float angle = Mathf.Atan2(dir.y, dir.x) * Mathf.Rad2Deg;
         if (shootJoystick.InputDir != Vector3.zero)
-            angle = Mathf.Atan2(shootJoystick.InputDir.y, shootJoystick.InputDir.x) * Mathf.Rad2Deg + 90;
+            angle = Mathf.Atan2(shootJoystick.InputDir.y, shootJoystick.InputDir.x) * Mathf.Rad2Deg;
         Quaternion rotation = Quaternion.AngleAxis(angle, Vector3.forward);
         transform.rotation = Quaternion.Slerp(transform.rotation, rotation, Time.deltaTime * 10);
     }

@@ -14,10 +14,13 @@ public class EnemyMovement : MonoBehaviour
     private PlayerArenessControler _playerArenessControler;
     private Vector2 _targetDirection;
 
+    private Animator moveAnim;
+
     private void Awake()
     {
         _rigidbody = GetComponent<Rigidbody2D>();
         _playerArenessControler = GetComponent<PlayerArenessControler>();
+        moveAnim = transform.GetChild(0).GetComponent<Animator>();
     }
 
     void Update()
@@ -53,7 +56,14 @@ public class EnemyMovement : MonoBehaviour
     private void SetVelocity()
     {
         if (_targetDirection == Vector2.zero)
+        {
             _rigidbody.velocity = Vector2.zero;
-        else _rigidbody.velocity = transform.up * _speed;
+            moveAnim.SetBool("Moving", false);
+        }
+        else
+        { 
+            _rigidbody.velocity = transform.up * _speed;
+            moveAnim.SetBool("Moving", true);
+        }
     }
 }

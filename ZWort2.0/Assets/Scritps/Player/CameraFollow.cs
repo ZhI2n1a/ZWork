@@ -6,6 +6,11 @@ public class CameraFollow : MonoBehaviour
 {
     private Transform playerPos;
 
+    private void Start()
+    {
+        Application.targetFrameRate = 60;
+    }
+
     void Awake()
     {
         playerPos = GameObject.FindGameObjectWithTag("Player").transform;
